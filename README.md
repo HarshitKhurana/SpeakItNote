@@ -15,7 +15,7 @@ SpeakItNote : It is a program that helps to make notes, by speaking into the and
 
 -> To use first start the Python Server on the laptop and then connect to the Laptop/Server using Android Application. 
 
-Tried and Tested using python2.7 and Ubuntu 16.04.3 LTS(Gnome Desktop Environment) and Android Smartphone.
+Tried and Tested using python2.7, Ubuntu 16.04.3 LTS(Gnome Desktop Environment) and Android Smartphone.
 
 INSTALLATION :
 
